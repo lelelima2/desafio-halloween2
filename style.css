@@ -1,0 +1,10 @@
+body{
+    background-color:#ffffff;
+    color:red;
+}
+
+img:hover {
+    content: URL(mario\ vampiro.jpg);
+    width:35%;
+    height:35%;
+}
